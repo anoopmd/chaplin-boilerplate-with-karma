@@ -1,0 +1,8 @@
+{
+  "name": "chaplin-boilerplate-with-karma",
+  "version": "0.0.1",
+  "devDependencies": {
+    "handlebars-brunch": "^2.0.1",
+    "javascript-brunch": "^2.0.0"
+  }
+}
